@@ -1,5 +1,5 @@
 # Thunderboard Sense 2 discovery
-# TP2
+## TP2
   
 * EFR32MG12 (uC):  
 	* R pour radio  
@@ -13,3 +13,17 @@
 		* EM3 : Stop  
 		* EM4 : Hibernate  
 		* EM4 : Shutoff  
+
+* UART :  
+	* liaison série asynchrone  
+	* bit de start et bit de stop  
+	* liaison Rx/Tx RS232  
+	* half ou full duplex  
+* SPI :  
+	* liaison full duplex  
+	* plus rapide que l'I2C  
+	* 4 pin :  
+		* SS  
+		* CLK  
+		* MISO  
+		* MOSI  
