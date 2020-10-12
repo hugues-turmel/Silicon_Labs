@@ -52,3 +52,7 @@
 	* Authentification
 	* Intégrité : message non intercepté en cours de route par une personne non voulue    
 	* Non-répudiation : Lorsque tout est ok on peut faire une MAJ  
+	
+NFC Tools  
+NIST : Equivalent AFNOR  
+EN303645 
