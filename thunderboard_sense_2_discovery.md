@@ -43,3 +43,12 @@
 	* Vibration -> 1 mW/m2  
 	* RF -> 10 uW/m2  (NFC, RFID)  
 	* RF -> 0.1 uW/m2 (GSM, WIFI)  
+
+* Edge computing :  
+	* calcul sur la gateway  
+	
+* 4 notions de sécurité :  
+	* Confidentialité  
+	* Authentification
+	* Intégrité : message non intercepté en cours de route par une personne non voulue    
+	* Non-répudiation : Lorsque tout est ok on peut faire une MAJ  
